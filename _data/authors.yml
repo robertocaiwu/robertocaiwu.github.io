@@ -2,10 +2,10 @@
 
 Roberto Cai:
   name        : "Roberto Cai"
-  uri         : "http://robertoc.me"
+  uri         : "http://robertocw.page"
   email       : "roberto.caiwu@h-brs.de"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  bio         : "M. Sc. Autonomous Systems. Worked for 2 years as full-stack software developer at Magna. Currently a research associate at Hochschule Bonn-Rhein-Sieg."
+  avatar      : "profile.png"
+  # twitter     : "name"
+  # google_plus : "Name"
 
