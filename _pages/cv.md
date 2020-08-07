@@ -36,6 +36,11 @@ performance.
   * RoboLand, Full-time (Sankt Augustin, Germany)
   * Research on immersive telepresence systems using omnidirectional cameras.
   
+* Software Developer, Aug 2020 - Present
+  * Locomotec GmbH, Full-time (Sankt Augustin, Germany)
+  * RUFUS: an electrically powered and controlled vehicle for professional running training outdoors.
+  * ROBLIN: a robotic running coach for the blind and visually impaired.
+
 Skills
 ======
 * Languages 
