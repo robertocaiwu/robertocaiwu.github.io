@@ -49,7 +49,7 @@ Skills
   * German (A2)
 * Software 
   * python
-  *  C#
+  * C#
   * C++
   * Java
   * Matlab
