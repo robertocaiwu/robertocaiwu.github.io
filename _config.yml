@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roberto's Site"
 title_separator          : "-"
 name                     : &name "Roberto Cai"
-description              : &description "M. Sc. Autonomous Systems. Worked for 2 years as full-stack software developer at Magna. Currently a research associate at Hochschule Bonn-Rhein-Sieg."
+description              : &description "M. Sc. Autonomous Systems. 2 years experience as full-stack software developer; 2 years of professional experience in robotics. Former research associate at Hochschule Bonn-Rhein-Sieg. Currently a Robotics Software Engineer at Kinexon Industries."
 url                      : https://robertocaiwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "robertocaiwu/robertocaiwu.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://yourfullgooglescholarurl.com"
-  email            : "roberto.caiwu@h-brs.de"
+  email            : "roberto.cai-wu@kinexon.de"
   researchgate     : "https://www.researchgate.net/profile/Roberto_Cai_Wu"
   uri              :
   bitbucket        :

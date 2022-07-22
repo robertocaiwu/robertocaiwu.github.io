@@ -13,7 +13,12 @@ redirect_from:
 Work experience
 ======
 
-* Software Developer, Aug 2020 - Present
+* Software Engineer Robotics, May 2022 - Present
+  * Kinexon Industries GmbH, Full-time (Munich, Germany)
+  * Develop software components for mobile robots for industrial applications.
+  * Implement interfaces for integrating actuators and sensors of different manufacturers.
+
+* Software Developer, Aug 2020 - Apr 2022
   * Locomotec GmbH, Full-time (Sankt Augustin, Germany)
   * Dedicated development of autonomous running trainer for blind people. 
   * Development and integration of collision avoidance software into mobile robots. 
