@@ -15,12 +15,12 @@ Work experience
 
 ## **Robotics Software Developer $\rightarrow$ Senior Robotics Software Developer**
 **Kinexon / Continental / Aumovio** | Munich, Germany  
-*May 2022 – Present*
+*May 2022 – May 2026*
 
 *Continuous employment on the same AMR product team through two company transitions: from Kinexon Industries GmbH, through acquisition by Continental Automotive Technologies GmbH, to the spin-off of Aumovio Robotic Solutions GmbH. Progressively taking on greater ownership and promoted to Senior in November 2025.*
 
 ---
-### **Aumovio** *(Oct 2025 – Present)*
+### **Aumovio** *(Oct 2025 – May 2026)*
 
 **Key Achievements**
 * **Business Impact:** Enabled the successful on-site integration for a critical **Proof of Concept (POC)**, directly securing a business pipeline for **100+ AMR** with the company's largest customer.

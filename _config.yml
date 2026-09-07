@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roberto's Site"
 title_separator          : "-"
 name                     : &name "Roberto Cai"
-description              : &description "M. Sc. Autonomous Systems from Hochschule Bonn-Rhein-Sieg with 6 years of experience in robotics. Currently a Senior Robotics Software Engineer at Aumovio Robotic Solutions."
+description              : &description "MSc Autonomous Systems with 6 years shipping perception, planning, and control for industrial AMRs across Kinexon, Continental, and Aumovio. Looking for a senior robotics role with more ownership of the full autonomy stack."
 url                      : https://robertocaiwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "robertocaiwu/robertocaiwu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Roberto Cai"
   avatar           : "profile.png"
-  bio              : "M. Sc. Autonomous Systems from Hochschule Bonn-Rhein-Sieg with 6 years of experience in robotics. Currently a Senior Robotics Software Engineer at Aumovio Robotic Solutions."
+  bio              : "MSc Autonomous Systems with 6 years shipping perception, planning, and control for industrial AMRs across Kinexon, Continental, and Aumovio. Looking for a senior robotics role with more ownership of the full autonomy stack."
   location         : "Munich, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://yourfullgooglescholarurl.com"
-  email            : "roberto.cai-wu@kinexon.de"
+  email            : "robertocw_18@hotmail.com"
   researchgate     : "https://www.researchgate.net/profile/Roberto_Cai_Wu"
   uri              :
   bitbucket        :
